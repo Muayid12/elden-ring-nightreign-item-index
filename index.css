@@ -1,0 +1,48 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1e1e2f;
+  color: #f4f4f4;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #e0b973;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 2px solid #e0b973;
+  border-radius: 8px;
+  background-color: #2b2b3d;
+  color: #fff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #2b2b3d;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #3c3c55;
+  color: #e0b973;
+}
+
+tr:nth-child(even) {
+  background-color: #242436;
+}
+
+tr:hover {
+  background-color: #39395b;
+}
