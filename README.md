@@ -11,9 +11,10 @@ Simple searchable database for ELDEN RING NIGHTREIGN items.
 
 ## How to use
 
-1. Visit: https://muayid12.github.io/elden-ring-nightreign-item-index
-2. Type in the search box to find items
-3. That's it
+1. Download the repository or clone it
+2. Open `index.html` in your browser
+3. Type in the search box to find items
+4. That's it
 
 ## What's included
 
