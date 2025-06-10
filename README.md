@@ -1,41 +1,31 @@
-# 🗡️ ELDEN RING NIGHTREIGN - Item Index
+# ELDEN RING NIGHTREIGN Item Index
 
-A searchable database of all items from **ELDEN RING NIGHTREIGN** and the base game.
+Simple searchable database for ELDEN RING NIGHTREIGN items.
 
-## ✨ Features
+## What it does
 
-- 🔍 **Search items instantly** - Find any item by name or description
-- 🎨 **Dark theme** - Matches the game's aesthetic
-- 📱 **Works on mobile** - Responsive design
-- ⚡ **Fast** - No loading times, works offline
-- 🎮 **4000+ items** - Complete database including NIGHTREIGN content
+- Search through game items by name or description
+- Dark theme that's easy on the eyes
+- Works on desktop and mobile
+- No installation needed - just open in browser
 
-## 🚀 How to Use
+## How to use
 
-1. **Online**: Visit the [live website](https://muayid12.github.io/elden-ring-nightreign-item-index)
-2. **Offline**: Download and open `index.html` in your browser
-3. **Search**: Type in the search box to find items
+1. Visit: https://muayid12.github.io/elden-ring-nightreign-item-index
+2. Type in the search box to find items
+3. That's it
 
-## 📂 What's Included
+## What's included
 
-- **Talismans** - All equipment enhancers
-- **Weapons** - Swords, shields, bows, staves
-- **NIGHTREIGN Items** - New expansion content
-- **Special Items** - Runes, materials, collectibles
+- Talismans and equipment
+- Weapons and shields  
+- Items from base game and NIGHTREIGN
+- Around 4000+ items total
 
-## 🔧 Tech Stack
+## Technical stuff
 
-- HTML5 + CSS3 + JavaScript
-- No dependencies required
-- Works in any modern browser
+Built with HTML, CSS, and JavaScript. No fancy frameworks or dependencies.
 
-## 🤝 Contributing
+## Contributing
 
-Found a bug or want to add features? Feel free to:
-- Open an issue
-- Submit a pull request
-- Suggest improvements
-
----
-
-**⚔️ May the Elden Ring guide your path through the NIGHTREIGN ⚔️** 
+Found a bug? Open an issue or submit a pull request. 
